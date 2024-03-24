@@ -23,7 +23,14 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
-
+input{
+  width:90%;
+  height: 30px;
+  border-radius: 5px;
+  padding: 5px;
+  direction: rtl;
+  margin-top:20px;;
+}
 .App-link {
   color: #61dafb;
 }
